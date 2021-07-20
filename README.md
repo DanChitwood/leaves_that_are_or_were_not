@@ -4,12 +4,12 @@ Data and code for a manuscript tentatively titled ***The grapevine leaves that a
 
 The data and code in this repository are for learning and reproducibile science purposes for a manuscript that is being written. With revisions, the exact wording and analyses may change or not precisely match the corresponding publication (if and when that occurs).
 
-**Procrustes_all.csv:** Dataset from which all analyses are derived.
-**Figures.ipynb:** Jupyter iPython notebook with documented code.
-**Figure_images:** Folder with visual outputs from notebook analyses.
-**Figure_jpgs:** Tentative figures using output analyses from the code.
+**Procrustes_all.csv:** Dataset from which all analyses are derived.  
+**Figures.ipynb:** Jupyter iPython notebook with documented code.  
+**Figure_images:** Folder with visual outputs from notebook analyses.  
+**Figure_jpgs:** Tentative figures using output analyses from the code.  
 
-To help in interpreting the analyses and code contained in this respository, figure legends are provided below:
+To help in interpreting the analyses and code contained in this respository, figure legends are provided below:  
 
 **Figure 1: Modeling vein-to-blade ratio as a function of normalized shoot position.** The natural log of the ratio of vein-to-blade area (vein-to-blade ratio) is modeled as a 2nd degree polynomial of normalized shoot position (where 0 is the shoot tip and 1 is the shoot base). The normalized shoot position value corresponding to the minimum vein-to-blade ratio is 0.6379505834434538 (magenta vertical line). This value has a 3.22% difference from the value of the inverse of the golden ratio, 0.61803398875 (gold vertical line).
 
