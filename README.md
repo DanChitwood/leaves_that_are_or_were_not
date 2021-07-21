@@ -6,8 +6,8 @@ The data and code in this repository are for learning and reproducibile science 
 
 **Procrustes_all.csv:** Dataset from which all analyses are derived.  
 **Figures.ipynb:** Jupyter iPython notebook with documented code.  
-**Figure_images:** Folder with visual outputs from notebook analyses.  
-**Figure_jpgs:** Tentative figures using output analyses from the code.  
+**Figures 1-6:** Tentative figures using output analyses from the code.  
+**Figure_images:** A zip file containing a folder with visual outputs from notebook analyses.  
 
 To help in interpreting the analyses and code contained in this respository, figure legends are provided below:  
 
